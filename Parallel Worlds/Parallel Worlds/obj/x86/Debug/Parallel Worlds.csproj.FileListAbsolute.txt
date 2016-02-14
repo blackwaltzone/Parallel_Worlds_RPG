@@ -1,0 +1,49 @@
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\obj\x86\Debug\Parallel Worlds.csprojResolveAssemblyReference.cache
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Parallel Worlds.exe
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Parallel Worlds.pdb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\obj\x86\Debug\Parallel Worlds.exe
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\obj\x86\Debug\Parallel Worlds.pdb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Arial.xnb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\obj\x86\Debug\Parallel Worlds.csprojResolveAssemblyReference.cache
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\obj\x86\Debug\Parallel Worlds.exe
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Arial.xnb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Parallel Worlds.exe
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Parallel Worlds.pdb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\obj\x86\Debug\Parallel Worlds.pdb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\FadeScreen.xnb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\background.xnb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\DialogBox.xnb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Engine.dll
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Engine.pdb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\tileSet.xnb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\player.xnb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Maps\Start.xnb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\tileset.png.xnb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Maps\Map0002.xnb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Maps\Start.map
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Maps\Map0002.map
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\fade.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\FadeScreen.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\DialogBox.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\tileSet.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\player.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\fade.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Maps\Start.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Maps\Map0002.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\tileset.png.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Maps\Start.map
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Maps\Map0002.map
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Engine.dll
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Engine.pdb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\chest.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\switch.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\chest.png.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\switch.png.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\collision.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\tile.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\chestOpen.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\chestOpen.png.xnb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\block.xnb

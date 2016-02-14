@@ -1,0 +1,10 @@
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\ContentPipeline\bin\x86\Debug\ContentPipeline.dll
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\ContentPipeline\bin\x86\Debug\ContentPipeline.pdb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\ContentPipeline\obj\x86\Debug\ContentPipeline.dll
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\ContentPipeline\obj\x86\Debug\ContentPipeline.pdb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\ContentPipeline\bin\x86\Debug\ContentPipeline.dll
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\ContentPipeline\bin\x86\Debug\ContentPipeline.pdb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\ContentPipeline\obj\x86\Debug\ContentPipeline.csprojResolveAssemblyReference.cache
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\ContentPipeline\obj\x86\Debug\ContentPipeline.dll
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\ContentPipeline\obj\x86\Debug\ContentPipeline.pdb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\ContentPipeline\obj\x86\Debug\ContentPipeline.csprojResolveAssemblyReference.cache

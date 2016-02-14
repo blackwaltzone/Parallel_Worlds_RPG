@@ -1,0 +1,50 @@
+- have player interact with stuff
+	- NPC
+	- have lists of objects and switches
+		- interaction method?
+		- script?
+
+- transition screen
+	- player continues moving on transition off
+
+- load player/stuff from files
+
+- do scripting/actions when switch is hit
+
+- push blocks
+	- animated
+	- reload
+	
+- dialog system:
+	- Entry
+		- links to:
+		- speaker:
+		- condition:
+		- script:
+		- text:
+	- Reply
+		- Links to:
+		- speaker:
+		- condition:
+		- script:
+		- text
+		
+
+
+DONE:
+- switched ScreenManager to static class
+	- consequences? ****************
+- map transitions
+- hit switches
+	- apparently stay switched when switching screens (GOOD)
+- load map from file
+- player automatically moves when transitioning
+- updated collision detection
+- fixed exit dialog (wouldn't cancel on Esc)
+- added blocks
+	- collision detection for blocks vs objects
+	- out of bounds detection
+- animated text
+- why can't content manager reload map???
+	- used Reset() method to reset switches and chests
+

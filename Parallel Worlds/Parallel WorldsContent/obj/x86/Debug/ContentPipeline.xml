@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2015-04-07T09:49:46.9563471-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\FadeScreen.png</Source>
+      <Name>Textures\FadeScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\FadeScreen.xnb</Output>
+      <Time>2015-04-15T18:56:26.306-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\background.png</Source>
+      <Name>Textures\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\background.xnb</Output>
+      <Time>2015-04-08T23:17:25.7604-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DialogBox.png</Source>
+      <Name>Textures\DialogBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\DialogBox.xnb</Output>
+      <Time>2010-12-08T12:09:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tileSet.png</Source>
+      <Name>Textures\tileSet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\tileSet.xnb</Output>
+      <Time>2014-07-15T19:45:03.8378-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\player.png</Source>
+      <Name>Textures\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\player.xnb</Output>
+      <Time>2014-05-29T09:47:40.398-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\fade.png</Source>
+      <Name>Textures\fade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\fade.xnb</Output>
+      <Time>2015-04-15T18:56:51.298-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\chest.png</Source>
+      <Name>Textures\chest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\chest.xnb</Output>
+      <Time>2015-04-28T18:41:29.1924074-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\switch.png</Source>
+      <Name>Textures\switch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\switch.xnb</Output>
+      <Time>2015-04-28T18:47:56.6175669-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\collision.png</Source>
+      <Name>Textures\collision</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\collision.xnb</Output>
+      <Time>2015-04-29T11:07:24.7660566-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tile.png</Source>
+      <Name>Textures\tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\tile.xnb</Output>
+      <Time>2015-03-12T17:32:53.435-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Maps\Start.map</Source>
+      <Name>Maps\Start</Name>
+      <Importer>MapImporter</Importer>
+      <Processor>MapProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Maps\Start.xnb</Output>
+      <Time>2015-04-30T12:59:46.3728137-05:00</Time>
+      <Request>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\tileset.png.xnb</Request>
+      <Request>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\chest.png.xnb</Request>
+      <Request>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\chestOpen.png.xnb</Request>
+      <Request>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\switch.png.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Maps\Map0002.map</Source>
+      <Name>Maps\Map0002</Name>
+      <Importer>MapImporter</Importer>
+      <Processor>MapProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Maps\Map0002.xnb</Output>
+      <Time>2015-04-15T17:25:48.013-05:00</Time>
+      <Request>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\tileset.png.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\tileset.png</Source>
+      <Name>Textures\tileset.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\tileset.png.xnb</Output>
+      <Time>2014-07-15T19:45:03.8378-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\chest.png</Source>
+      <Name>Textures\chest.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\chest.png.xnb</Output>
+      <Time>2015-04-28T18:41:29.1924074-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\chestOpen.png</Source>
+      <Name>Textures\chestOpen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\chestOpen.xnb</Output>
+      <Time>2015-04-30T13:04:52.9879734-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\chestOpen.png</Source>
+      <Name>Textures\chestOpen.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\chestOpen.png.xnb</Output>
+      <Time>2015-04-30T13:04:52.9879734-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\switch.png</Source>
+      <Name>Textures\switch.png</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\switch.png.xnb</Output>
+      <Time>2015-04-28T18:47:56.6175669-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\block.png</Source>
+      <Name>Textures\block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\Textures\block.xnb</Output>
+      <Time>2015-05-04T17:25:28.44113-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel WorldsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel WorldsContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel Worlds\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T14:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T14:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T14:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T14:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T14:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T14:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\ContentPipeline\bin\x86\Debug\ContentPipeline.dll</Key>
+        <Value>2015-04-30T13:01:50.2115647-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-21T17:06:50.2507263-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

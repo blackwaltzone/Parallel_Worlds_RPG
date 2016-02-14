@@ -1,0 +1,2 @@
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Parallel Worlds\Parallel WorldsContent\obj\x86\Debug\Parallel WorldsContent.contentprojResolveAssemblyReference.cache
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Parallel Worlds\Parallel WorldsContent\obj\x86\Debug\Parallel WorldsContent.contentprojResolveAssemblyReference.cache

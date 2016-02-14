@@ -1,0 +1,12 @@
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Engine\bin\x86\Debug\Engine.dll
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Engine\bin\x86\Debug\Engine.pdb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Engine\obj\x86\Debug\Engine.dll
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Engine\obj\x86\Debug\Engine.pdb
+D:\Dustin's Stuff\Programs\Projects\Parallel Worlds\Engine\obj\x86\Debug\Engine.csprojResolveAssemblyReference.cache
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Engine\bin\x86\Debug\Engine.dll
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Engine\bin\x86\Debug\Engine.pdb
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Engine\obj\x86\Debug\Engine.csprojResolveAssemblyReference.cache
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Engine\obj\x86\Debug\Engine.dll
+C:\Users\dustin\Documents\Programs\projects\Parallel Worlds\Engine\obj\x86\Debug\Engine.pdb
